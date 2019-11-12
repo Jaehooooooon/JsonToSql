@@ -1,5 +1,7 @@
 # JsonToSql
-java program that parses json data &amp; inserts to sqlite database
+java program that parses json data &amp; inserts to sqlite database (Maven 프로젝트)
+
+<dependency> : gson 2.8.6 , sqlite-jdbc 3.28.0 라이브러리 사용
 
 RoomList, Room : 데이터 담을 인스턴스 용 클래스 (Json 데이터 폼에 맞게)
 
