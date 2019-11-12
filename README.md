@@ -1,5 +1,5 @@
 # JsonToSql
-java program that parses json data &amp; insert to sqlite database
+java program that parses json data &amp; inserts to sqlite database
 
 RoomList, Room : 데이터 담을 인스턴스 용 클래스 (Json 데이터 폼에 맞게)
 
